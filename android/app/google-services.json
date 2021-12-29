@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "862311666327",
-    "project_id": "rwemaapi",
-    "storage_bucket": "rwemaapi.appspot.com"
+    "project_number": "395317779911",
+    "project_id": "madteam-2477a",
+    "storage_bucket": "madteam-2477a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:862311666327:android:5f301d8bd8bead9adb0fd2",
+        "mobilesdk_app_id": "1:395317779911:android:da16d46ebcb9c6b686cde2",
         "android_client_info": {
           "package_name": "com.example.rwemaapi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "862311666327-dsj1nke0btmtti7hr88a4cmh79ee4r13.apps.googleusercontent.com",
+          "client_id": "395317779911-1em1g4vi1hbvlscgj83cj3rki06n7hod.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAjIR424qvo2am6veBJEAmT8DdpkWO-KoE"
+          "current_key": "AIzaSyCKqz76KUkdExIsrhEtvfWzcdAiTx0-TU0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "862311666327-dsj1nke0btmtti7hr88a4cmh79ee4r13.apps.googleusercontent.com",
+              "client_id": "395317779911-1em1g4vi1hbvlscgj83cj3rki06n7hod.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
