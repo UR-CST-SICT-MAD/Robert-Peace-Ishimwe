@@ -5,10 +5,28 @@
 2.  Member 1 Reg No: 219000504
 3.  Member 2 Reg No: 219000631
 
-better create your can Account or use: E-mail: rwemadominik3@gmail.com  password: 12345678
-I uploaded APK also in this repostory to make testing  process easier.
+Prerequisites:
+1.Create account(Sign up)
+2.Login
+3.Enjoy the App
 
+I also uploaded APK file to make Test Easier.
 Blessings!
+
+Link to the Hosted Web API :
+https://rwemaapi.000webhostapp.com/
+
+Link to Postman Collection :
+Credentials for Postman testing:
+
+Username : rwema
+Password : pelin123
+
+Authentication type : "Basic Auth"
+
+https://rwemaapi.000webhostapp.com/api/restaurants/allrestaurants.php
+https://rwemaapi.000webhostapp.com/api/dish/read.php
+https://rwemaapi.000webhostapp.com/api/restaurants/create.php //Add new Restaurant
 
 
 Welcome to the final project
