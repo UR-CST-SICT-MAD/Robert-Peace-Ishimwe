@@ -32,11 +32,10 @@ Authentication type : "Basic Auth"
 
 https://rwemaapi.000webhostapp.com/api/restaurants/allrestaurants.php
 https://rwemaapi.000webhostapp.com/api/dish/read.php
-https://rwemaapi.000webhostapp.com/api/restaurants/create.php //Add new Restaurant
+https://rwemaapi.000webhostapp.com/api/restaurants/create.php
 
+![q](https://user-images.githubusercontent.com/52289151/148092000-c9d6c142-8d4d-409b-bb7a-69ca7766e790.JPG)
 
-
-![1](https://user-images.githubusercontent.com/52289151/148091718-63cbdb51-4f1c-44f8-8a3e-3365e739d2b3.png =250x250)
 
 
 Welcome to the final project
