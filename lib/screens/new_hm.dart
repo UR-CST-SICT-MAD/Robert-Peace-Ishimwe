@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:rwemaapi/pages/ho.dart';
-import 'package:rwemaapi/pages/me.dart';
 import 'package:rwemaapi/pages/po.dart';
 import 'package:rwemaapi/pages/vi.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 
 import 'home.dart';
+
+
 void main() {
   runApp(
     const MaterialApp(
@@ -24,6 +24,7 @@ class _WebViewAppState extends State<WebViewApp> {
     Home(),
     Vi(),
     PageBody(),
+
 
   ];
   @override
@@ -63,13 +64,13 @@ class _WebViewAppState extends State<WebViewApp> {
             backgroundColor: Color(0xff07172f),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.restaurant_menu),
-            label: 'Restos',
+            icon: Icon(Icons.no_drinks_sharp),
+            label: 'Drinks',
             backgroundColor: Color(0xff07172f),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.no_drinks_sharp),
-            label: 'Beers',
+            icon: Icon(Icons.restaurant_menu),
+            label: 'Restos',
             backgroundColor: Color(0xff07172f),
           ),
           BottomNavigationBarItem(
@@ -77,6 +78,7 @@ class _WebViewAppState extends State<WebViewApp> {
             label: 'About',
             backgroundColor: Color(0xff07172f),
           ),
+
         ],
       ),
     );
