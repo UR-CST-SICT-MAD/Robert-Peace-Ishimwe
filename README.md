@@ -36,12 +36,12 @@ https://rwemaapi.000webhostapp.com/api/restaurants/create.php //Add new Restaura
 
 
 
-![1](https://user-images.githubusercontent.com/52289151/148089572-cc48680e-4f26-4a83-a9f9-09395da5139b.png)
-![2](https://user-images.githubusercontent.com/52289151/148089577-efc87c2e-23d2-4bf5-84c0-95404dc0d2dd.png)
-![3](https://user-images.githubusercontent.com/52289151/148089580-d4c66f28-fc1d-4bbc-ae95-409b6291f56b.png)
-![4](https://user-images.githubusercontent.com/52289151/148089582-151f21b9-38e8-4823-a3d7-ba36ac1835e4.png)
-![5](https://user-images.githubusercontent.com/52289151/148089586-3e03bf19-e497-4141-9435-a8698d9f1809.png)
-![6](https://user-images.githubusercontent.com/52289151/148089589-ba8dd543-4d30-45f8-8bdb-36f1ba439808.png)
+![1](https://user-images.githubusercontent.com/52289151/148089572-cc48680e-4f26-4a83-a9f9-09395da5139b.png =100*100)
+![2](https://user-images.githubusercontent.com/52289151/148089577-efc87c2e-23d2-4bf5-84c0-95404dc0d2dd.png =100*100)
+![3](https://user-images.githubusercontent.com/52289151/148089580-d4c66f28-fc1d-4bbc-ae95-409b6291f56b.png =100*100)
+![4](https://user-images.githubusercontent.com/52289151/148089582-151f21b9-38e8-4823-a3d7-ba36ac1835e4.png =100*100)
+![5](https://user-images.githubusercontent.com/52289151/148089586-3e03bf19-e497-4141-9435-a8698d9f1809.png =100*100)
+![6](https://user-images.githubusercontent.com/52289151/148089589-ba8dd543-4d30-45f8-8bdb-36f1ba439808.png =100*100)
 
 
 Welcome to the final project
