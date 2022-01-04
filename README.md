@@ -36,7 +36,7 @@ https://rwemaapi.000webhostapp.com/api/restaurants/create.php //Add new Restaura
 
 
 
-![1](https://user-images.githubusercontent.com/52289151/148089572-cc48680e-4f26-4a83-a9f9-09395da5139b.png | width=100)
+![1]("https://user-images.githubusercontent.com/52289151/148089572-cc48680e-4f26-4a83-a9f9-09395da5139b.png" width="100" height="100")
 ![2](https://user-images.githubusercontent.com/52289151/148089577-efc87c2e-23d2-4bf5-84c0-95404dc0d2dd.png | width=100)
 ![3](https://user-images.githubusercontent.com/52289151/148089580-d4c66f28-fc1d-4bbc-ae95-409b6291f56b.png | width=100)
 ![4](https://user-images.githubusercontent.com/52289151/148089582-151f21b9-38e8-4823-a3d7-ba36ac1835e4.png | width=100)
