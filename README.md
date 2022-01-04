@@ -10,7 +10,7 @@ Prerequisites:
 2.Login
 3.Enjoy the App
 
-I also uploaded APK file to make Test Easier.
+I also uploaded APK file to make Test Easier. or download it here: https://drive.google.com/drive/folders/183wEqzaXW0w9jNpA9m3YtvS6Xv1qQXaA?usp=sharing
 Blessings!
 
 Link to the Hosted Web API :
