@@ -5,8 +5,7 @@ Widget appBarMain(BuildContext context
     flexibleSpace
       decoration: BoxDeco
         gradi
-          colors: [ const 
-            
+          colors: [ c
     leading: Icon(Ico
   
       Icon(Icons.emoji_food_beverage_outlined
