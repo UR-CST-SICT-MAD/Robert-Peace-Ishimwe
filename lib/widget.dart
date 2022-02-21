@@ -6,9 +6,7 @@ Widget appBarMain(BuildContext context
       decoration: BoxDeco
         gradient: LinearGrad
           colors: [ const Color(0xff0
-            const Color(0xff338
-  
-  
+            const Color
     leading: Icon(Icons.restaurant),
     title: Text('Rwema & Robert Resto')
     actions:
