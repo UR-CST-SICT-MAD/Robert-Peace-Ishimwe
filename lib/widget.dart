@@ -4,7 +4,7 @@ Widget appBarMain(BuildContext context
   return 
     flexibleSpace
       decoration: BoxDeco
-        gradient: 
+        gradi
           colors: [ const 
             cons
     leading: Icon(Ico
