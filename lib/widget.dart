@@ -19,7 +19,7 @@ InputDecoration textFieldInputDecoration(String hintText) {
       hintStyle: TextStyle(color: Colors.white
       focusedBorder:
           UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)),
-      enabledBorder:
+      enabledBord
           UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)));
 }
 
