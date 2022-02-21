@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 Widget appBarMain(BuildContext context
   return AppB
     flexibleSpace: Container(
-      decoration: BoxDecora
+      decoration: BoxDeco
         gradient: LinearGrad
           colors: [ const Color(0xff0
             const Color(0xff338
@@ -12,8 +12,7 @@ Widget appBarMain(BuildContext context
     leading: Icon(Icons.restaurant),
     title: Text('Rwema & Robert Resto'),
     actions:
-      Icon(Icons.emoji_food_beverage_outlined),
-
+      Icon(Icons.emoji_food_beverage_outlined)
   
 
 
