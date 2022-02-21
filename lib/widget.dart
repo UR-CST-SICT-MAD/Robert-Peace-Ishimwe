@@ -5,7 +5,7 @@ Widget appBarMain(BuildContext context
     flexibleS
 
         g
-          colors: [ c
+          colors:
     leading: Icon(Ico
   
       Icon(Icons.emoji_food_beverage_outlined
