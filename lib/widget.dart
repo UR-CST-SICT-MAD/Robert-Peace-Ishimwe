@@ -4,7 +4,7 @@ Widget appBarMain(BuildContext context) {
   return AppB
     flexibleSpace: Container(
       decoration: BoxDecoration(
-        gradient: LinearGradie
+        gradient: LinearGrad
           colors: [ const Color(0xff07172
             const Color(0xff338bb
   
