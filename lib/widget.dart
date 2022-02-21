@@ -20,3 +20,4 @@ InputDecoration textFieldInputDecoration(String hintText
 TextStyle simpleTe
   return TextStyle(color: Colors.whit
   return TextStyle(color: Colors.white, fontSize: 18);
+}
