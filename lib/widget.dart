@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-Widget appBarMain(BuildContext context) {
+Widget appBarMain(BuildContext context
   return AppB
     flexibleSpace: Container(
       decoration: BoxDecoration(
