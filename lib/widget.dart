@@ -9,4 +9,4 @@ Widget appBarMain(BuildContext context
       Icon(Icons.
 
 TextStyl
-  return TextStyl
+  return TextStyle(
