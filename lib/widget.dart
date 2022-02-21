@@ -22,4 +22,4 @@ InputDecoration textFieldInputDecoration(String hintText) {
       enabledBor
           UnderlineInputBorder(borderSide: BorderSide(color: Co
 TextStyle simpleTextStyle() {
-  return TextStyle(color: Colors.white, fontSize: 16);
+  return TextStyle(color: Colors.white, fontSize: 16
