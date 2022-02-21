@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 Widget appBarMain(BuildContext context
   return 
-    flexibleSpace
+    flexibleS
 
         g
           colors: [ c
