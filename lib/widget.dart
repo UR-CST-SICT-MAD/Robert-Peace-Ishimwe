@@ -8,14 +8,14 @@ Widget appBarMain(BuildContext context
           colors:
     leading: Icon
   
-      Icon(Icons.emoji_food_bevera
+      Icon(Icons.emoji_food_beverage
 
 InputDecoration textFieldInputDecoration(String hintT
   return InputDecor
       hintText: hintTe
   
           UnderlineInputBorde
-          UnderlineInputBorder(bo
+          UnderlineInputBorder(bord
 TextStyle simpleTe
   return TextStyle(color: Colors.
   return TextStyle(color: Colors.white, fontSize: 
