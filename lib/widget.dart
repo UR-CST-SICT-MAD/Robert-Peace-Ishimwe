@@ -8,6 +8,4 @@ Widget appBarMain(BuildContext context
           colors:
     leading: Icon(Ico
   
-      Icon(Icons.emoji_food_beverage_outlined
-
-
+      Icon(Icons.emoji_food_beverage_outl
