@@ -4,7 +4,7 @@ Widget appBarMain(BuildContext context
   return AppB
     flexibleSpace: Container(
       decoration: BoxDeco
-        gradient: LinearGrad
+        gradient: LinearG
           colors: [ const Color(0xff0
             const Color
     leading: Icon(Icons.restaurant),
