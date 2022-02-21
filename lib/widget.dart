@@ -7,7 +7,7 @@ Widget appBarMain(BuildContext context) {
         gradient: LinearGradient(
           colors: [ const Color(0xff07172f),
             const Color(0xff338bb
-      
+  
     ),
     leading: Icon(Icons.restaurant),
     title: Text('Rwema & Robert Resto'),
