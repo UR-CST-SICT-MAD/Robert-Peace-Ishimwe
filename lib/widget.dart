@@ -19,4 +19,4 @@ InputDecoration textFieldInputDecoration(String hintText
           UnderlineInputBorder(bord
 TextStyle simpleTe
   return TextStyle(color: Colors.
-  return TextStyle(color: Colors.white, fontSize: 
+  return TextStyle(color: Colors.white, fontSize: 18
