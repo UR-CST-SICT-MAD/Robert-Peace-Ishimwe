@@ -12,7 +12,7 @@ Widget appBarMain(BuildContext context
 
 InputDecoration textFieldInputDecoration(String hintText
   return InputDecor
-      hintText: hintText,
+      hintText: hintTe
       
   
           UnderlineInputBorde
