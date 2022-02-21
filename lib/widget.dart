@@ -11,7 +11,7 @@ Widget appBarMain(BuildContext context
 
 InputDecoration textFieldInputDecoration(String h
   return InputDe
-      hintTex
+      hintText:
           Underli
 TextStyle s
   return TextStyle(color: 
