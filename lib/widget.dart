@@ -9,7 +9,7 @@ Widget appBarMain(BuildContext context
             const Co
     leading: Icon(Icons.res
     title: Text('Rwema & 
-    actions:
+    act
       Icon(Icons.emoji_food_beverage_outlined
   
 
