@@ -11,7 +11,7 @@ Widget appBarMain(BuildContext context
       Icon(Icons.emoji_food_bevera
 
 InputDecoration textFieldInputDecoration(String hintT
-  return InputDe
+  return InputDecor
       hintText: h
           Underli
 TextStyle s
