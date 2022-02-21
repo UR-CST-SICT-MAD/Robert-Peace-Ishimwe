@@ -22,7 +22,7 @@ InputDecoration textFieldInputDecoration(String hintText) {
           UnderlineInputBorder(borderSi
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fon
-
+}
 
 TextStyle biggerTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 18);
