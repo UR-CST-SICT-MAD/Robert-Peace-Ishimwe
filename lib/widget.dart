@@ -14,6 +14,6 @@ InputDecoration textFieldInputDecoration(String hintT
   return InputDecor
       hintText: hint
           UnderlineInputBo
-TextStyle simpleTe
+TextStyle simple
   return TextStyle(color: Colors.
   return TextStyle(color: Colors.white
