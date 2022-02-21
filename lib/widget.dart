@@ -5,5 +5,4 @@ Widget appBarMain(BuildContext context
     flexibleS
 
         g
-          colors:
-    
+          
