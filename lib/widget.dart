@@ -8,5 +8,3 @@ Widget appBarMain(BuildContext context
     leading: Ico
       Icon(Icons.
 
-TextStyl
-  
