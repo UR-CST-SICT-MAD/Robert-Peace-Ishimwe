@@ -15,7 +15,7 @@ InputDecoration textFieldInputDecoration(String hintText
       hintText: hintText,
       hintSt
       
-          UnderlineInputBorder(borderSide: BorderSide(col
+          UnderlineInputBorder(borderSide: BorderSide(color
           UnderlineInputBorder(borderSi
 TextStyle simpleText
   return TextStyle(color: Colors.whit
