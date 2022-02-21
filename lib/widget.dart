@@ -13,7 +13,7 @@ Widget appBarMain(BuildContext context
 InputDecoration textFieldInputDecoration(String hintText
   return InputDecorati
       hintText: hintText,
-      hintStyle: TextStyle(col
+      hintStyle: TextStyle(color: 
       focusedBos
           UnderlineInputBorder(borderSide: BorderSide(color: C
           UnderlineInputBorder(borderSi
