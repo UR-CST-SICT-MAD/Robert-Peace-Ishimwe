@@ -6,8 +6,7 @@ Widget appBarMain(BuildContext context) {
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [ const Color(0xff07172f),
-            const Color(0xff338bbb)],
-        )
+            const Color(0xff338bbb
       
     ),
     leading: Icon(Icons.restaurant),
