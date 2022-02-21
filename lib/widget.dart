@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 Widget appBarMain(BuildContext context
   return 
     flexibleSpace
-      decoration: BoxDeco
+      decoration: Box
         g
           colors: [ c
     leading: Icon(Ico
