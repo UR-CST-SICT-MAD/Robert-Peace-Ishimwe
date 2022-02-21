@@ -1,18 +1,21 @@
 import 'package:flutter/material.dart';
 
-Widget appBarMain(BuildContext context
-  return AppB
+Widget appBarMain(BuildContext context) {
+  return AppBar(
     flexibleSpace: Container(
-      decoration: BoxDeco
-        gradient: LinearGrad
-          colors: [ const Color(0xff0
-            const Color(0xff338
-  
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          colors: [ const Color(0xff07172f),
+            const Color(0xff338bbb)],
+        ),
+      ),
+    ),
     leading: Icon(Icons.restaurant),
-    title: Text('Rwema & Robert Resto')
-    actions:
-      Icon(Icons.emoji_food_beverage_outlined
-  
+    title: Text('Rwema & Robert Resto'),
+    actions: [
+      Icon(Icons.emoji_food_beverage_outlined),
+
+    ],
 
 
   );
