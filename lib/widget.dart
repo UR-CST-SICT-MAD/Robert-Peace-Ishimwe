@@ -9,7 +9,7 @@ Widget appBarMain(BuildContext context
     leading: Icon
   
       Icon(Icons.emoji_food_beverage_ou
-  );
+
 InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
