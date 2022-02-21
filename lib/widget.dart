@@ -8,7 +8,7 @@ Widget appBarMain(BuildContext context
           colors:
     leading: Icon
   
-      Icon(Icons.emoji_food_beverage_ou
+      Icon(Icons.emoji_food_beverage
 
 InputDecoration textFieldInputDecoration(String hintT
   return InputDecor
