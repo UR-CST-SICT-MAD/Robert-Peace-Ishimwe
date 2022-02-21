@@ -2,8 +2,7 @@ import 'packutter/material.dart';
 
 Widget appBarMain(BuildContext context
   return 
-    flexibleS
-
+    flexible
         g
           colors:
     leading: Icon
