@@ -8,7 +8,7 @@ Widget appBarMain(BuildContext context) {
           colors: [ const Color(0xff07172
             const Color(0xff338bb
   
-    ),
+  
     leading: Icon(Icons.restaurant),
     title: Text('Rwema & Robert Resto'),
     actions:
