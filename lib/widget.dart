@@ -8,7 +8,7 @@ Widget appBarMain(BuildContext context
           colors: [ const 
             const Co
     leading: Icon(Icons.res
-    title: Text('Rwema & Robert Resto')
+    title: Text('Rwema & 
     actions:
       Icon(Icons.emoji_food_beverage_outlined
   
