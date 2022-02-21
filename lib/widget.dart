@@ -10,4 +10,4 @@ Widget appBarMain(BuildContext context
 
 TextStyl
   return TextStyle(col
-  return TextSt
+  return TextStyle(
