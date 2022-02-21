@@ -12,4 +12,4 @@ Widget appBarMain(BuildContext context
 
 
 InputDecoration textFieldInputDecoration(String hintText) {
-  return InputDecor
+  return InputDec
