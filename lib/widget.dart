@@ -7,7 +7,9 @@ Widget appBarMain(BuildContext context
           colors:
     leading: Ico
       Icon(Icons.
-InputDecoration textFieldInpu
+InputDecoration textFieldInput
+      
+
 TextStyl
   return TextStyle(col
   return TextStyle(color: 
