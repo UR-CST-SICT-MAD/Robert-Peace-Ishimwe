@@ -2,10 +2,11 @@ import 'package:flutter/material.dart';
 
 Widget appBarMain(BuildContext context
   return 
-    flexibleS
+    flexibleSpace
+      decoration: BoxDeco
+        gradi
+          colors: [ const 
 
-        g
-          colors:
     leading: Icon(Ico
   
       Icon(Icons.emoji_food_beverage_outlined
@@ -13,11 +14,22 @@ Widget appBarMain(BuildContext context
 
 
   );
+}
+
 InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
-      hintStyle: TextStyle(color: Colors.white
+      hintStyle: TextStyle(color: Colors.white54),
       focusedBorder:
-          UnrlineInputBorder(borderSide: BorderSide(color: Colors.
-      enabledBor
-          UnderlineInputBorder(borderSide: BorderSide(color: Co
+          UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)),
+      enabledBorder:
+          UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)));
+}
+
+TextStyle simpleTextStyle() {
+  return TextStyle(color: Colors.white, fontSize: 16);
+}
+
+TextStyle biggerTextStyle() {
+  return TextStyle(color: Colors.white, fontSize: 18);
+}
