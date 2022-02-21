@@ -5,7 +5,7 @@ Widget appBarMain(BuildContext context
     flexibleSpace
       decoration: BoxDeco
         gradient: 
-          colors: [ const Color(0x
+          colors: [ const 
             const Co
     leading: Icon(Icons.res
     title: Text('Rwema & Robert Resto')
