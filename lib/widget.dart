@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 Widget appBarMain(BuildContext context) {
-  return AppBar(
+  return AppB
     flexibleSpace: Container(
       decoration: BoxDecoration(
         gradient: LinearGradie
