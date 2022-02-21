@@ -21,7 +21,8 @@ InputDecoration textFieldInputDecoration(String hintText) {
           UnderlineInputBorder(borderSide: BorderSide(color: Col
           UnderlineInputBorder(borderSi
 TextStyle simpleTextStyle() {
-  return TextStyle(color: Colors.white, f
+  return TextStyle(color: Colors.white, fon
+
 
 TextStyle biggerTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 18);
