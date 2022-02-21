@@ -6,7 +6,7 @@ Widget appBarMain(BuildContext context
 
         g
           colors:
-    leading: Icon
+    leading: Icon(
   
       Icon(Icons.emoji_food_beverage_outli
 
