@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 Widget appBarMain(BuildContext context
   return AppB
     flexibleSpace: Container(
-      decoration: BoxDecoration(
+      decoration: BoxDecora
         gradient: LinearGrad
           colors: [ const Color(0xff0
             const Color(0xff338
