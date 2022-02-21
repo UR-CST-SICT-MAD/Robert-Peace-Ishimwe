@@ -10,7 +10,7 @@ Widget appBarMain(BuildContext context
   
       Icon(Icons.emoji_food_beverage_ou
 
-InputDecoration textFieldInputDecoration(String hintText
+InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
       hintStyle: TextStyle(color: Colors.w
