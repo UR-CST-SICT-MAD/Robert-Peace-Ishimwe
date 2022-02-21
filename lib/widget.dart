@@ -11,7 +11,7 @@ Widget appBarMain(BuildContext context
       Icon(Icons.emoji_food_beverage_ou
 
 InputDecoration textFieldInputDecoration(String hintText
-  return InputDecorati
+  return InputDecoration(
       hintText: hintText,
       hintStyle: TextStyle(color: 
       focusedBos
