@@ -5,8 +5,7 @@ Widget appBarMain(BuildContext context
     flex
         g
           colors:
-    leading: Icon
-  
+    leading: Ico
       Icon(Icons.
 InputDecoration textFieldInputDe
   return
