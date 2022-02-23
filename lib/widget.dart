@@ -4,4 +4,4 @@ Widget appBarMain(BuildContext context) {
   return AppBar(
     flexibleSpace: Container
       decoration: BoxDecoration(
-        gradient: LinearGradient(
+        gradient: LinearGradient
