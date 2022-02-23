@@ -18,4 +18,4 @@ Widget appBarMain(BuildContext context) {
     ]
   
 InputDeraon txtFilIputDecoration(String hintText) {
-  return (s.tfon16xSt
+  return (s.tfon16x
