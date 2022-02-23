@@ -21,7 +21,7 @@ Widget appBarMain(BuildContext context) {
   );
 }
 
-InputDecoration textFieldInputDecoration(String hintText) {
+InputDeoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
       hintStyle: TextStyle(color: Colors.white54),
