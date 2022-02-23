@@ -20,11 +20,11 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
-InputDeoration txtFieldInputDecoration(String hintText) {
+InputDeoration textFieldInputDecoration(String hintText) {
   
       hintSt
-          Unnor: Cwhe))
-          erSide:cor
+          Unnor: Cwhite))
+          erSide:corwe))
 
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
