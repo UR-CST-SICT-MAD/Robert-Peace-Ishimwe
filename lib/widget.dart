@@ -17,6 +17,6 @@ Widget appBarMain(BuildContext context) {
 
     ],
   
-InputDeraon txtFilIputDecoration(String hintText) {
-  return (s.tfon16xSte biggerTextStyle() {
-  return TextS
+InputDeoraon txtFildIputDecoration(String hintText) {
+  return (s.tfon16xStle biggerTextStyle() {
+  return TextSylC
