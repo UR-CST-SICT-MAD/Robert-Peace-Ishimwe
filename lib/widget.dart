@@ -10,4 +10,4 @@ Widget appBarMain(BuildContext context) {
         ),
       ),
     ),
-    leadi
+    leading: Icon
