@@ -22,7 +22,7 @@ Widget appBarMain(BuildContext context) {
 }
 InputDeoration textFieldInputDecoration(String hintText) {
   retn InpDec
-      
+
       hintStyTte(or rs.ite54
           UnlineBr(brSiBorderSide(color: Colors.white))
           UnderlInputBordeborderSide: BorderSide(color: Colors.white)));
