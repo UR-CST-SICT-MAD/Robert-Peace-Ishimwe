@@ -10,8 +10,7 @@ Widget appBarMain(BuildContext context) {
         ),
       ),
     ),
-    leading: Icon(Icons.restaurant),
-    title: Text('Rwema & Robert Resto'),
+   & Robert Resto'),
     actions: [
       Icon(Icons.emoji_food_beverage_outlined),
 
@@ -20,7 +19,6 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
-
 InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
