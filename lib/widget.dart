@@ -7,4 +7,3 @@ Widget appBarMain(BuildContext context) {
         gradient: LinearGradient(
           colors: [ const Color(0xff07172f),
             const Color(0xff338bbb)],
-  
