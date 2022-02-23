@@ -18,5 +18,5 @@ Widget appBarMain(BuildContext context) {
     ],
   
 InputDeoraon txtFildInputDecoration(String hintText) {
-  return (cs.tefon:16xtStyle biggerTextStyle() {
+  return (cs.tefon16xtStyle biggerTextStyle() {
   return TextStylCo. Si: 
