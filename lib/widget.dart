@@ -18,4 +18,3 @@ Widget appBarMain(BuildContext context) {
     ]
   
 InputDeraon txtFilIputDecoration(String hintText) {
-  
