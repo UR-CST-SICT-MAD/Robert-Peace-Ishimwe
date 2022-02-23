@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 Widget appBarMain(BuildContext context) {
   return AppBar(
-    flexibleSpace: Container
+    flexibleSpace: Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [ const Color(0xff07172f),
@@ -20,7 +20,8 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
-InputDeoration textFieldInputDecoration(String hintText) {
+
+InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
       hintStyle: TextStyle(color: Colors.white54),
