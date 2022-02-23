@@ -13,4 +13,4 @@ Widget appBarMain(BuildContext context) {
     leading: Icon(Icons.restaurant),
     title: Text('Rwema & Robert Resto'),
     actions: [
-      Icon(Icons.emoji_food
+      Icon(Icons.emoji_foo
