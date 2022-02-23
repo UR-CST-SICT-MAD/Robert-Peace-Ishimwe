@@ -20,7 +20,6 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
-
 InputDeoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
