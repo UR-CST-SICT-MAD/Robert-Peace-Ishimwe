@@ -16,7 +16,9 @@ Widget appBarMain(BuildContext context) {
       Icon(Icons.emoji_food_beverage_outlined),
 
     ],
+
   
-InputDeoraon txtFildInputDecoration(String hintText) {
-  return (c:s.tefoniz: 16xtStyle biggerTextStyle() {
+InputDeoraon txtFieldInputDecoration(String hintText) {
+
+  return (c:s.te,foniz: 16xtStyle biggerTextStyle() {
   return TextStylCo. Si: 18)
