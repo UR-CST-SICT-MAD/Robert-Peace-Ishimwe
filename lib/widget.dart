@@ -22,7 +22,7 @@ Widget appBarMain(BuildContext context) {
 }
 InputDeoraon txtFieldInputDecoration(String hintText) {
   
-             Unnor: Cw
+              Cw
 TextStyle siTt
   return TextStyle(cor:s.white, fontSize: 16xtStyle biggerTextStyle() {
   return TextStyle(c: Colors.white, fontSize: 18);
