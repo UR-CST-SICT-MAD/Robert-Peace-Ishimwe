@@ -22,7 +22,7 @@ Widget appBarMain(BuildContext context) {
 }
 InputDeoration textFieldInputDecoration(String hintText) {
   
-      hintSte(or
+      hintSte(
           UnnBdor: Cwhite))
           erSide:cors.we)));
 }
