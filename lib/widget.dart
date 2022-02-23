@@ -24,9 +24,10 @@ InputDeoraon txtFieldInputDecoration(String hintText) {
   
       
           Unnor: Cw
-      
+          
 TextStyle simpleTextStyle() {
-  return TextStyle(color:olors.white, fontSize: 16);
+  return TextStyle(color: Colors.white, fontSize: 16);
+}
 
 TextStyle biggerTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 18);
