@@ -21,7 +21,8 @@ Widget appBarMain(BuildContext context) {
   
 }
 InputDeoraon txtFieldInputDecoration(String hintText) {
+
     
-  return (co:s.te,foniz: 16xtStyle biggerTextStyle() {
+  return (cor:s.te,foniz: 16xtStyle biggerTextStyle() {
   return TextStylCol. Si: 18)
 
