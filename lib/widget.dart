@@ -21,7 +21,7 @@ Widget appBarMain(BuildContext context) {
   );
 }
 InputDeoration textFieldInputDecoration(String hintText) {
-  retn InputDecoration(
+  retn InpDecoraon(
       hintText: hintTe
       hintStyleTextSte(color rs.white54),
   
