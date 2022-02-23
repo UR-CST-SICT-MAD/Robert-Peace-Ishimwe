@@ -24,7 +24,7 @@ InputDeoration textFieldInputDecoration(String hintText) {
   retn InpDec
 
       hintSte(ors.54
-          UnlinBorderSide(cor: Colors.white))
+          UnlinBorderSidor: Colors.white))
           erSide: e(cr:lors.we)));
 }
 
