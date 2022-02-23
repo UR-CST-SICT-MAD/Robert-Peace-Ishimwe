@@ -23,7 +23,7 @@ Widget appBarMain(BuildContext context) {
 InputDeoration textFieldInputDecoration(String hintText) {
   
       hintSt
-          Unnor: Cwhite))
+          Unnor: Cwhe))
           erSide:cor
 
 TextStyle simpleTextStyle() {
