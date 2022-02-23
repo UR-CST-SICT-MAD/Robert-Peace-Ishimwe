@@ -24,7 +24,7 @@ InputDeoration textFieldInputDecoration(String hintText) {
   
       hintSt
           Unnor: Cwhite))
-          erSide:corwe
+          erSide:cor
 
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
