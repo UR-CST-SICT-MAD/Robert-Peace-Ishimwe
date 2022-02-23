@@ -20,6 +20,7 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
+
 InputDecoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintText,
@@ -29,6 +30,7 @@ InputDecoration textFieldInputDecoration(String hintText) {
       enabledBorder:
           UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)));
 }
+
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
 }
