@@ -11,3 +11,4 @@ Widget appBarMain(BuildContext context) {
       ),
     ),
     leading: Icon(Icons.restaurant),
+    titl
