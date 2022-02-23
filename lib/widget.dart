@@ -20,7 +20,7 @@ Widget appBarMain(BuildContext context) {
 
   );
 }
-InputDeoration txtFieldInputDecoration(String hintText) {
+InputDeoraon txtFieldInputDecoration(String hintText) {
   
       
           Unnor: Cw
