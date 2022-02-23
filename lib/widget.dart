@@ -18,12 +18,12 @@ Widget appBarMain(BuildContext context) {
     ],
 
 
-  
+  );
 }
-InputDeoraon txtFieldInputDecoration(String hintText) {
+InputDeoration txtFieldInputDecoration(String hintText) {
   
       
-          Unnor: Cw
+          Unnor: Cwhe
           erSide:c
 
 TextStyle simpleTextStyle() {
