@@ -6,4 +6,4 @@ Widget appBarMain(BuildContext context) {
       decoration: BoxDecoration(
         gradient: LinearGradient(
           colors: [ const Color(0xff07172f),
-            const Color(0xff338b
+            const Color(0xff33
