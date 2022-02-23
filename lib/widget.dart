@@ -35,4 +35,4 @@ TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
 }
 TextStyle biggerTextStyle() {
-  return TextStyle(color: Colors.w
+  return TextStyle(color: Colors
