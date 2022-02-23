@@ -25,7 +25,7 @@ InputDeoration textFieldInputDecoration(String hintText) {
 
       hintSte(or rs.ite54
           UnlineBrSiBorderSide(color: Colors.white))
-          UnderlInputBordeborderSide: BorderSide(color: Colors.white)));
+          UnderlInputBorderderSide: BorderSide(color: Colors.white)));
 }
 
 TextStyle simpleTextStyle() {
