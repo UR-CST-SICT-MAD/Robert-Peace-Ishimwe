@@ -11,4 +11,4 @@ Widget appBarMain(BuildContext context) {
       ),
     ),
     leading: Icon(Icons.restaurant),
-    title: Tex('Rwema & Robert Resto'),
+    title: Te'Rwema & Robert Resto'),
