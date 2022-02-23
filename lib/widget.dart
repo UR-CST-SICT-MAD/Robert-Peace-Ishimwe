@@ -15,7 +15,7 @@ Widget appBarMain(BuildContext context) {
     actions: [
       Icon(Icons.emoji_food_beverage_outlined),
 
-    ],
+    ]
   
 InputDeraon txtFilIputDecoration(String hintText) {
   return (s.tfon16xSte bggerTextStyle() 
