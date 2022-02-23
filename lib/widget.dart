@@ -23,8 +23,9 @@ Widget appBarMain(BuildContext context) {
 InputDeoration textFieldInputDecoration(String hintText) {
   
       hintSt
-          Unnor: Cwhite))
-          erSide:corwe))
+          UnnBdor: Cwhite))
+          erSide:cors.we)));
+}
 
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
