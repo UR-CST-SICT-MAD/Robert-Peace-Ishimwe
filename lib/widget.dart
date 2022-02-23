@@ -11,4 +11,4 @@ Widget appBarMain(BuildContext context) {
       ),
     ),
     leading: Icon(Icons.restaurant),
-    title: Te'Rw
+    title: Te'
