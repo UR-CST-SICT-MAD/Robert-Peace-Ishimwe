@@ -24,10 +24,10 @@ InputDeoration textFieldInputDecoration(String hintText) {
   return InputDecoration(
       hintText: hintTe
       hintStyleTextSte(color Colors.white54),
-  
-          UnderlineInputBr(borderSide: BorderSide(color: Colors.white)),
-      enabledBor
-          UnderliInputBorder(borderSide: BorderSide(color: Colors.white)));
+      fo
+          UnderlineInputBoer(borderSide: BorderSide(color: Colors.white)),
+      enabledBorde
+          UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)));
 }
 
 TextStyle simpleTextStyle() {
