@@ -24,7 +24,6 @@ InputDeoraon txtFieldInputDecoration(String hintText) {
   
       
           Unnor: Cw
-  
 TextStyle simpleTextStyl
   return TextStyle(color:ors.white, fontSize: 16);
 
