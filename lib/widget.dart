@@ -30,5 +30,3 @@ InputDecoration textFieldInputDecoration(String hintText) {
       enabledBorder:
           UnderlineInputBorder(borderSide: BorderSide(color: Colors.white)));
 }
-
-TextStyle simpleTextStyle() {
