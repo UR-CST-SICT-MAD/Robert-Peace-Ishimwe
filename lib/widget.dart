@@ -21,7 +21,7 @@ Widget appBarMain(BuildContext context) {
   );
 }
 InputDeoration textFieldInputDecoration(String hintText) {
-  retn InpD
+  retn In
       hintSte(ors.54
           UnlinBordedor: Colors.white))
           erSide:cors.we)));
