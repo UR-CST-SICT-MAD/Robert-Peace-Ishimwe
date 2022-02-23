@@ -9,5 +9,4 @@ Widget appBarMain(BuildContext context) {
             const Color(0xff338bbb)],
         ),
       ),
-    ),
-  
+    )
