@@ -32,6 +32,4 @@ InputDecoration textFieldInputDecoration(String hintText) {
 }
 
 TextStyle simpleTextStyle() {
-  return TextStyle(color: Colors.white, fontSize: 16);
-}
-TextStyle biggerTextStyl
+  return TextStyle(color: Colors.white, fontSize: 16
