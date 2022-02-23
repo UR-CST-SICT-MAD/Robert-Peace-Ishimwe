@@ -24,6 +24,6 @@ InputDeoraon txtFieldInputDecoration(String hintText) {
   
          Cw
 
-  return TextStyle(cor:s.white, fontSize: 16xtStyle biggerTextStyle() {
+  return TextStyle(cor:s.te, fontSize: 16xtStyle biggerTextStyle() {
   return TextStylColo.t ntSize: 18);
 }
