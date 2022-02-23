@@ -32,4 +32,4 @@ InputDecoration textFieldInputDecoration(String hintText) {
 }
 
 TextStyle simpleTextStyle() {
-  return TextStyle(color: 
+  return TextStyle(
