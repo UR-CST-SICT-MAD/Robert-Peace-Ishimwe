@@ -10,7 +10,8 @@ Widget appBarMain(BuildContext context) {
         ),
       ),
     ),
-   & Robert Resto'),
+    leading: Icon(Icons.restaurant),
+    title: Text('Rwema & Robert Resto'),
     actions: [
       Icon(Icons.emoji_food_beverage_outlined),
 
