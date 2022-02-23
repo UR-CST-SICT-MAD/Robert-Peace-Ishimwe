@@ -24,7 +24,7 @@ InputDeoration txtFieldInputDecoration(String hintText) {
   
       hint
           Unnor: Cwhe
-          erSide:cor
+          erSide:c
 
 TextStyle simpleTextStyle() {
   return TextStyle(color: Colors.white, fontSize: 16);
