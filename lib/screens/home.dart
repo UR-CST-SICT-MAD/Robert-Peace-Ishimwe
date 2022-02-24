@@ -17,7 +17,6 @@ class _HomeState extends State<Home> {
     super.initState();
     listenForBeers();
   }
-
   @override 
   Widget build(BuildContext context) => Scaffold(
 
