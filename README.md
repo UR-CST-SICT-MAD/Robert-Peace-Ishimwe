@@ -20,46 +20,11 @@ I also uploaded APK file to make Test Easier. or download it here: https://drive
 Blessings!
 
 Link to the Hosted Web API :
-https://rwemaapi.000webhostapp.com/
+https://peacejr7.000webhostapp.com/
 
-Link to Postman Collection :
-Credentials for Postman testing:
-
-Username : rwema
-Password : pelin123
 
 Authentication type : "Basic Auth"
 
-https://rwemaapi.000webhostapp.com/api/restaurants/allrestaurants.php
-https://rwemaapi.000webhostapp.com/api/dish/read.php
-https://rwemaapi.000webhostapp.com/api/restaurants/create.php
-
-![q](https://user-images.githubusercontent.com/52289151/148092000-c9d6c142-8d4d-409b-bb7a-69ca7766e790.JPG)
-
-
-
-Welcome to the final project
-
-In the previous assignments you have been creating APIs and interfaces for the flutter applications hotel listing ([For IS](https://github.com/iPelino/mad-assignment-webapi)) and restaurant ([for IT](https://github.com/iPelino/mad-assignment-resto-webapi)).
-in this final project you are going to put everything together to create a fully functioning app.
-
-
-
-
-## Instructions
-0. The project will be done in groups of two. don't forget to add your department and registration numbers above.
-1. create mockups of the app you intend to develop, at least 3 screens. (everyone should come up with their own designs like styling, themes,....)
-2. Design and Develop app based on the mockups created in instruction 1.
-3. The App should consume the API created in the previous assignment.
-4. User registration and authentication should be handled through Firebase.
-5. Don't forget to add any links, credentials and any other links required to test the work done.
-
-
-## Resources
-
-1.  [Flutter Docs](https://flutter.dev/docs)
-2.  [Youtube : Flutter](https://www.youtube.com/c/flutterdev)
-3.  [Youtube: Figma](https://www.youtube.com/watch?v=PeGfX7W1mJk)
-
-
-##### For any specific challenge on the project you can reach me via MS teams class channel.
+https://peacejr7.000webhostapp.com/api/restaurants/allrestaurants.php
+https://peacejr7.000webhostapp.com/api/dish/read.php
+https://peacejr7.000webhostapp.com/api/restaurants/create.php
