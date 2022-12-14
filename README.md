@@ -28,3 +28,6 @@ Authentication type : "Basic Auth"
 https://peacejr7.000webhostapp.com/api/restaurants/allrestaurants.php
 https://peacejr7.000webhostapp.com/api/dish/read.php
 https://peacejr7.000webhostapp.com/api/restaurants/create.php
+
+![q](https://user-images.githubusercontent.com/52289151/148092000-c9d6c142-8d4d-409b-bb7a-69ca7766e790.JPG)
+
